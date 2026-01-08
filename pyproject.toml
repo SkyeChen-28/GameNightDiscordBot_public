@@ -1,0 +1,10 @@
+[project]
+name = "gamenightdiscordbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "discord-py-interactions>=5.15.0",
+    "numpy>=2.4.0",
+]

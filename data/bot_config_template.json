@@ -1,0 +1,13 @@
+{
+    "bot_owner_id": "ownerName",
+    "timeout_mins": 10,
+    "delete_after_time_secs": 10,
+    "debug_scope": 0,
+    "label_max_len": 80,
+    "allowDmsInstructionsFilePaths": [
+        "private_assets/PcAllowServerDMs1.png",
+        "private_assets/PcAllowServerDMs2.png",
+        "private_assets/MobileAllowServerDMs.png"
+    ],
+    "helpFilePath": "help.md"
+}
